@@ -1,0 +1,1 @@
+[![Code Climate](https://codeclimate.com/github/samir1/maze/badges/gpa.svg)](https://codeclimate.com/github/samir1/maze)
